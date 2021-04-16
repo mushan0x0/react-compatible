@@ -8,6 +8,7 @@ The `react` package contains only the functionality necessary to define React co
 
 ## Example Usage
 
-```js
-var React = require('react');
+```diff
++"react": "git+https://github.com/mushan0x0/react-compatible.git#17.0.1-1",
++"react-dom": "^17.0.1",
 ```
